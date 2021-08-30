@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  datasource:
+    url: jdbc:mysql://localhost:3306/purples?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    hikari:
+      username: root
+      password: 336458
+      driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  port: 8481

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/purple-activity/purple-activity.iml" filepath="$PROJECT_DIR$/purple-activity/purple-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purple-basicservice/purple-basicservice.iml" filepath="$PROJECT_DIR$/purple-basicservice/purple-basicservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purple-getway/purple-getway.iml" filepath="$PROJECT_DIR$/purple-getway/purple-getway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purple-item/purple-item.iml" filepath="$PROJECT_DIR$/purple-item/purple-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purple-order/purple-order.iml" filepath="$PROJECT_DIR$/purple-order/purple-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purple-pay/purple-pay.iml" filepath="$PROJECT_DIR$/purple-pay/purple-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purple-sendmessage/purple-sendmessage.iml" filepath="$PROJECT_DIR$/purple-sendmessage/purple-sendmessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purple-user/purple-user.iml" filepath="$PROJECT_DIR$/purple-user/purple-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purples.iml" filepath="$PROJECT_DIR$/purples.iml" />
+    </modules>
+  </component>
+</project>

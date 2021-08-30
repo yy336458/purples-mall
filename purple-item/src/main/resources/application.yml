@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: purple-item
+  profiles:
+    active: dev

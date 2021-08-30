@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="purple-activity" />
+        <module name="purple-item" />
+        <module name="purple-getway" />
+        <module name="purple-user" />
+        <module name="purple-sendmessage" />
+        <module name="purple-basicservice" />
+        <module name="purple-order" />
+        <module name="purple-pay" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="purple-activity" target="1.8" />
+      <module name="purple-basicservice" target="1.8" />
+      <module name="purple-getway" target="1.8" />
+      <module name="purple-item" target="1.8" />
+      <module name="purple-order" target="1.8" />
+      <module name="purple-pay" target="1.8" />
+      <module name="purple-sendmessage" target="1.8" />
+      <module name="purple-user" target="1.8" />
+      <module name="purples" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="purple-activity" options="-parameters" />
+      <module name="purple-basicservice" options="-parameters" />
+      <module name="purple-getway" options="-parameters" />
+      <module name="purple-item" options="-parameters" />
+      <module name="purple-order" options="-parameters" />
+      <module name="purple-pay" options="-parameters" />
+      <module name="purple-sendmessage" options="-parameters" />
+      <module name="purple-user" options="-parameters" />
+      <module name="purples" options="-parameters" />
+    </option>
+  </component>
+</project>
